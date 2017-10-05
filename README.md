@@ -1,4 +1,6 @@
-#How to run
+# How to run
+
+Requires nodejs v6 or more
 
 ```
 cd /dir/of/project
